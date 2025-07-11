@@ -7,7 +7,7 @@ You (Player 1) play against the computer (PC). Each round, both roll a dice, and
 
 ## 🔗 Live Demo
 
-👉 [Live Demo on Netlify](https://your-netlify-link.netlify.app)
+👉 [Live Demo on Netlify](https://mellifluous-kleicha-9a3b53.netlify.app)
 
 ---
 
