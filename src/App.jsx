@@ -54,10 +54,10 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '40px', fontFamily: 'sans-serif' }}>
-      {/* Üst Sonuç Metni */}
+      {/* Top Result Text */}
       <h1 style={{ marginBottom: '30px' }}>{resultText}</h1>
 
-      {/* Zarlar */}
+      {/* Dice */}
       <div style={{ display: 'flex', justifyContent: 'center', gap: '80px', marginBottom: '10px' }}>
         <div>
           <img src={diceImages[dice1Value]} alt="Player Dice" width="100" />
@@ -86,7 +86,7 @@ function App() {
         </div>
       </div>
 
-      {/* Zar At Butonu */}
+      {/* Button */}
       <button
         onClick={rollDice}
         disabled={rolling}
